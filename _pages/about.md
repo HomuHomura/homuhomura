@@ -17,6 +17,8 @@ Unlike Monte-Carlo, my research interests diverge. Specifically, I am interested
 - **Numerical techniques**: including determinant quantum Monte-Carlo, and Green's function compression techniques such as discrete Lehmann representations.
 - **Quantum algorithms**: including Hamiltonian simulation by qubitization, state tomography and state preparation.
 
+In the past, I also did density functional theory calculations. I will also be interested in working on generative-model-inspired/assisted numerical methods.
+
 Fun
 ======
 Outside of research, I enjoy skiing, playing piano and video gaming. My gaming interests also diverge, including Civ6, Splatoon etc.

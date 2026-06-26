@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D candidate in theoretical condensed matter physics at Cornell. I am fortunate to be advised by Prof. Debanjan Chowdhury. I work on strongly correlated electronic systems, using a combination of analytical approach (e.g. large-N field theory) and numerical simulations (e.g. Monte-Carlo)
+I am a Ph.D candidate in theoretical condensed matter physics at <a href="https://physics.cornell.edu/" style="text-decoration: none;">Cornell</a>. I am fortunate to be advised by <a href="https://www.chowdhury.lassp.cornell.edu" style="text-decoration: none;">Prof. Debanjan Chowdhury</a>. I work on strongly correlated electronic systems, using a combination of analytical approach (e.g. large-N field theory) and numerical simulations (e.g. Monte-Carlo)
 
 Research Interests
 ======
 Unlike Monte-Carlo, my research interests diverge. Specifically, I am interested in
-- **Non-Fermi Lquids & strange metals**: including their spectral properties, transport and collective excitations.
+- **Non-Fermi Lquids & Strange metals**: including their spectral properties, transport and collective excitations.
 - **Moiré materials**: including their unconventional superconductivity, exotic composite excitations, correlated topological phases, intertwined orders and quantum phase transitions.
 - **Numerical techniques**: including determinant quantum Monte-Carlo, and Green's function compression techniques such as discrete Lehmann representations.
 - **Quantum algorithms**: including Hamiltonian simulation by qubitization, state tomography and state preparation.

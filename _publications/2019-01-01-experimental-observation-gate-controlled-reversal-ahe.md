@@ -1,5 +1,5 @@
 ---
-title: "Experimental observation of the gate-controlled reversal of the anomalous Hall effect in the intrinsic magnetic topological insulator MnBi2Te4 device"
+title: "Experimental Observation of the Gate-Controlled Reversal of the Anomalous Hall Effect in the Intrinsic Magnetic Topological Insulator MnBi<sub>2</sub>Te<sub>4</sub> Device"
 collection: publications
 category: manuscripts
 permalink: /publication/2019-gate-controlled-reversal-ahe

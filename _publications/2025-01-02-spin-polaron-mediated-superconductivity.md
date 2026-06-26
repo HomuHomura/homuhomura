@@ -1,5 +1,5 @@
 ---
-title: "Spin-Polaron mediated superconductivity in doped chern antiferromagnets"
+title: "Spin-Polaron Mediated Superconductivity in Doped Chern Antiferromagnets"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-spin-polaron-mediated-superconductivity

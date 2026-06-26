@@ -1,5 +1,5 @@
 ---
-title: "Interaction-mitigated Landau damping"
+title: "Interaction-Mitigated Landau Damping"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-interaction-mitigated-landau-damping

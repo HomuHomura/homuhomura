@@ -1,5 +1,5 @@
 ---
-title: "Collective density fluctuations of strange metals with critical Fermi surfaces"
+title: "Collective Density Fluctuations of Strange Metals with Critical Fermi Surfaces"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-collective-density-fluctuations-strange-metals

@@ -1,5 +1,5 @@
 ---
-title: "Interface-induced sign reversal of the anomalous Hall effect in magnetic topological insulator heterostructures"
+title: "Interface-Induced Sign Reversal of the Anomalous Hall Effect in Magnetic Topological Insulator Heterostructures"
 collection: publications
 category: manuscripts
 permalink: /publication/2021-interface-induced-sign-reversal-ahe

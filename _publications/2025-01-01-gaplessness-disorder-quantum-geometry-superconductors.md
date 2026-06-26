@@ -1,5 +1,5 @@
 ---
-title: "Gaplessness from disorder and quantum geometry in gapped superconductors"
+title: "Gaplessness from Disorder and Quantum Geometry in Gapped Superconductors"
 collection: publications
 category: manuscripts
 permalink: /publication/2026-gaplessness-disorder-quantum-geometry-superconductors

@@ -1,5 +1,5 @@
 ---
-title: "Intertwined magnetism and superconductivity in isolated correlated flat bands"
+title: "Intertwined Magnetism and Superconductivity in Isolated Correlated Flat Bands"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-intertwined-magnetism-superconductivity-flat-bands

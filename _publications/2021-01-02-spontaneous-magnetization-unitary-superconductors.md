@@ -1,5 +1,5 @@
 ---
-title: "Spontaneous magnetization in unitary superconductors with time reversal symmetry breaking"
+title: "Spontaneous Magnetization in Unitary Superconductors with Time Reversal Symmetry Breaking"
 collection: publications
 category: manuscripts
 permalink: /publication/2021-spontaneous-magnetization-unitary-superconductors

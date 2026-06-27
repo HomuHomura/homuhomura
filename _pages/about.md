@@ -10,6 +10,20 @@ redirect_from:
 
 I am a Ph.D candidate in theoretical condensed matter physics at <a href="https://physics.cornell.edu/" style="text-decoration: none;">Cornell</a>. I am fortunate to be advised by <a href="https://www.chowdhury.lassp.cornell.edu" style="text-decoration: none;">Prof. Debanjan Chowdhury</a>. I work on strongly correlated electronic systems, using a combination of analytical approach (e.g. large-N field theory) and numerical simulations (e.g. Monte-Carlo)
 
+Research Interests
+======
+Unlike Monte-Carlo, my research interests diverge. Specifically, I am interested in
+- **Non-Fermi Lquids & Strange metals**: including their spectral properties, transport and collective excitations.
+- **Moiré materials**: including their unconventional superconductivity, exotic composite excitations, correlated topological phases, intertwined orders and quantum phase transitions.
+- **Numerical techniques**: including determinant quantum Monte-Carlo, and Green's function compression techniques such as discrete Lehmann representations.
+- **Quantum algorithms**: including Hamiltonian simulation by qubitization, state tomography and state preparation.
+
+In the past, I also did density functional theory calculations. I will also be interested in working on generative-model-inspired/assisted numerical methods.
+
+Fun
+======
+Outside of research, I enjoy skiing, playing piano and video gaming. My gaming interests also diverge, including Civ6, Splatoon etc.
+
 <section class="mobile-publications">
   <h2 class="mobile-publications__title">Publications</h2>
   <div class="wordwrap publications__intro">
@@ -38,20 +52,6 @@ I am a Ph.D candidate in theoretical condensed matter physics at <a href="https:
     {% endfor %}
   {% endif %}
 </section>
-
-Research Interests
-======
-Unlike Monte-Carlo, my research interests diverge. Specifically, I am interested in
-- **Non-Fermi Lquids & Strange metals**: including their spectral properties, transport and collective excitations.
-- **Moiré materials**: including their unconventional superconductivity, exotic composite excitations, correlated topological phases, intertwined orders and quantum phase transitions.
-- **Numerical techniques**: including determinant quantum Monte-Carlo, and Green's function compression techniques such as discrete Lehmann representations.
-- **Quantum algorithms**: including Hamiltonian simulation by qubitization, state tomography and state preparation.
-
-In the past, I also did density functional theory calculations. I will also be interested in working on generative-model-inspired/assisted numerical methods.
-
-Fun
-======
-Outside of research, I enjoy skiing, playing piano and video gaming. My gaming interests also diverge, including Civ6, Splatoon etc.
 
 <!-- Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 

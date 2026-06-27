@@ -66,15 +66,9 @@
 }
 
 .publications__sync-note {
-  margin-left: 0.75em;
+  margin: -0.25em 0 0.5em;
   font-size: $type-size-8;
   font-weight: normal;
-
-  @include breakpoint(max-width $medium) {
-    display: block;
-    margin-top: 0.25em;
-    margin-left: 0;
-  }
 }
 
 .publications__category-title {

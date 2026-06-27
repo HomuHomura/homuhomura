@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "Welcome"
+browser_title: "Xuepeng Wang"
 author_profile: true
 redirect_from: 
   - /about/

@@ -177,6 +177,10 @@
   min-width: 250px;
   background: var(--global-bg-color);
 
+  @include breakpoint(max-width $medium) {
+    min-width: 0;
+  }
+
   a {
     display: block;
     margin: 0 1rem;
@@ -204,6 +208,26 @@
 
   .visible-links {
     display: table;
+
+    @include breakpoint(max-width $medium) {
+      display: flex;
+      align-items: center;
+
+      .masthead__menu-item--lg,
+      #theme-toggle {
+        display: none;
+      }
+
+      li {
+        display: block;
+      }
+
+      a {
+        margin: 0 0.35rem;
+        font-size: 0.9rem;
+        white-space: nowrap;
+      }
+    }
 
     li {
       display: table-cell;
@@ -315,6 +339,13 @@
       &:last-child {
         border-bottom: none;
       }
+    }
+  }
+
+  @include breakpoint(max-width $medium) {
+    button,
+    .hidden-links {
+      display: none;
     }
   }
 }

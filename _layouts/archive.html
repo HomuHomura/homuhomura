@@ -17,12 +17,17 @@ layout: default
 
   <div class="archive">
     {% unless page.header.overlay_color or page.header.overlay_image %}
-      <h1 class="page__title{% if page.url == "/publications/" and site.author.googlescholar %} mobile-publications__title{% endif %}">
+      <h1 class="page__title{% if page.url == "/publications/" and site.author.googlescholar %} publications__page-title{% endif %}">
         {{ page.title }}
         {% if page.url == "/publications/" and site.author.googlescholar %}
-          <a class="mobile-publications__scholar-button" href="{{ site.author.googlescholar }}">Google Scholar</a>
+          <a class="mobile-publications__scholar-button publications__mobile-scholar-button" href="{{ site.author.googlescholar }}">Google Scholar</a>
         {% endif %}
       </h1>
+      {% if page.url == "/publications/" and site.author.googlescholar %}
+        <div class="publications__sync-note">
+          see also <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.
+        </div>
+      {% endif %}
     {% endunless %}
     {{ content }}
   </div>

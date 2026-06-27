@@ -71,6 +71,10 @@
   font-weight: normal;
 }
 
+.publications__mobile-scholar-button {
+  display: none;
+}
+
 .publications__category-title {
   margin: 0.75em 0 0.35em;
 }
@@ -107,6 +111,22 @@
 
 .mobile-publications p.archive__item-excerpt {
   font-size: $type-size-7;
+}
+
+@include breakpoint(max-width $medium) {
+  .publications__page-title {
+    display: flex;
+    align-items: center;
+    gap: 0.6em;
+  }
+
+  .publications__mobile-scholar-button {
+    display: inline-block;
+  }
+
+  .publications__sync-note {
+    display: none;
+  }
 }
 
 .publication__item--shaded,

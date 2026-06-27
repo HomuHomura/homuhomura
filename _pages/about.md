@@ -20,10 +20,6 @@ Unlike Monte-Carlo, my research interests diverge. Specifically, I am interested
 
 In the past, I also did density functional theory calculations. I will also be interested in working on generative-model-inspired/assisted numerical methods.
 
-Contact
-======
-Email: xw577-at-cornell-dot-edu
-
 <section class="mobile-publications">
   <h1 class="mobile-publications__title">
     Publications
@@ -57,6 +53,10 @@ Email: xw577-at-cornell-dot-edu
     {% endfor %}
   {% endif %}
 </section>
+
+Contact
+======
+Email: xw577-at-cornell-dot-edu
 
 Fun
 ======

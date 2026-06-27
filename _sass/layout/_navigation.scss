@@ -226,10 +226,6 @@
     }
 
     #theme-toggle {
-      @include breakpoint(max-width $medium) {
-        display: none;
-      }
-
       a {
         width: 25px;
         display: flex;

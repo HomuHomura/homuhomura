@@ -21,7 +21,7 @@ Experience
 
 Honors
 ======
-* Cornell Scholarship, Cornell University, 2021
+* Cornell Fellowship, Cornell University, 2021
 * National Scholarship, Nanjing University, 2017
   
 <!-- Skills
